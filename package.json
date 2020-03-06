@@ -1,0 +1,14 @@
+{
+  "name": "react-tdd-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jongkeun/react-tdd-practice.git",
+  "author": "Jongkeun <jongkeun.kr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
